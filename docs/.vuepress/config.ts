@@ -20,7 +20,7 @@ export default {
     openInNewWindow: '在新窗口打开',
     toggleDarkMode: '切换夜间模式',
     toggleSidebar: '切换侧边栏',
-    docsRepo: 'devdiv/school',
+    docsRepo: 'devdiv/ai-dev-school',
     editLinks: true,
     editLinkText: '在线编辑文档',
     docsDir: 'docs',
@@ -56,7 +56,7 @@ export default {
   lang: 'zh-CN',
   title: 'AI大模型应用开发知识库',
   description: '构建AI大模型应用开发核心能力体系',
-  base: '/school/',
+  base: '/ai-dev-school/',
   head: [
     ['link', { rel: 'apple-touch-icon', href: '/icons/apple-touch-icon.png' }],
     ['link', { rel: 'icon', href: 'images/favicon.ico' }],
