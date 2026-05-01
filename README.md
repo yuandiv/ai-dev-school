@@ -4,7 +4,7 @@
 
 这是一个专注于 AI 大模型应用开发的知识库，旨在帮助开发者构建 AI 大模型应用的核心能力体系。内容涵盖开发框架、模型训练、Agent开发、RAG技术、模型部署等多个技术领域。
 
-**在线访问地址**：<https://devdiv.github.io/school>
+**在线访问地址**：<https://devdiv.github.io/ai-dev-school>
 
 ## 核心特色
 
@@ -39,7 +39,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/devdiv/school.git
+git clone https://github.com/devdiv/ai-dev-school.git
 cd school
 
 # 安装依赖
@@ -49,7 +49,7 @@ npm install
 npm run dev
 ```
 
-访问 `http://localhost:8080/school/` 查看本地文档。
+访问 `http://localhost:8080/ai-dev-school/` 查看本地文档。
 
 ### 构建部署
 
@@ -120,6 +120,6 @@ school/
 
 ## 相关链接
 
-- **在线文档**: <https://devdiv.github.io/school>
-- **GitHub 仓库**: <https://github.com/devdiv/school>
-- **问题反馈**: <https://github.com/devdiv/school/issues>
+- **在线文档**: <https://devdiv.github.io/ai-dev-school>
+- **GitHub 仓库**: <https://github.com/devdiv/ai-dev-school>
+- **问题反馈**: <https://github.com/devdiv/ai-dev-school/issues>
