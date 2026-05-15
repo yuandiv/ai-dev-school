@@ -21,7 +21,7 @@
     "@vuepress/plugin-markdown-chart": "2.0.0-rc.128",
     "@vuepress/plugin-medium-zoom": "2.0.0-rc.128",
     "@vuepress/plugin-prismjs": "2.0.0-rc.128",
-    "@vuepress/plugin-pwa": "2.0.0-rc.128",
+    "@vuepress/plugin-pwa": "2.0.0-rc.130",
     "@vuepress/plugin-register-components": "2.0.0-rc.128",
     "@vuepress/plugin-search": "2.0.0-rc.128",
     "@vuepress/theme-default": "2.0.0-rc.128",
